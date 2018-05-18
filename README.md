@@ -1,6 +1,6 @@
-# guoshi competition
+# guoshi quantitative investment tool
 
-A quantitative investment tool for guoshi competition. 
+A quantitative investment tool based on RSI and BOLL.
 
 ## Environment
 * Python 3.6
